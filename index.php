@@ -56,7 +56,7 @@
 
 	</div>
 
-	<header id="myCarousel" class="carousel slide" >
+	<header id="myCarousel" class="carousel slide sombra-bottom" >
 		<ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
